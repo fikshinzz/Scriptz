@@ -10,7 +10,7 @@ Utilities for DHCP, PDF extraction, and general helpers.
 ### DHCP
 | Script | Description |
 |---|---|
-| [`New-DHCPScopeCSV.ps1`](New-DHCPScopeCSV.ps1) | Bulk DHCP scope creation via CSV |
+| [`New-DHCPScope.ps1`](New-DHCPScope.ps1) | Bulk DHCP scope creation via CSV |
 | [`New-BulkDHCPReservations.ps1`](New-BulkDHCPReservations.ps1) | Bulk DHCP reservations via CSV |
 
 ### PDF
