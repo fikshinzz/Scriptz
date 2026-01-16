@@ -1,5 +1,5 @@
 # Bulk Import DHCP Reservations from CSV
-$csvPath    = "./dhcp_reservations.csv"
+$csvPath    = ".\dhcp_reservations.csv"
 $dhcpServer = "localhost"
 
 if (-not (Test-Path $csvPath)) {
